@@ -9,6 +9,7 @@ In Intellij please run/execute MeetingApp.java file
 "Enter the name of the meeting initiator: Senthil"
 
 >> Step B. Once your or meeting initiator name entered, following options will be displayed.
+
 1. Invite participant
 2. Submit response
 3. End meeting
@@ -17,6 +18,7 @@ In Intellij please run/execute MeetingApp.java file
 Choose an option:
 
 >> Step C. Please select option 1, to include the participant name.
+
 Choose an option: 1
 Enter the name of the participant to invite: Yang
 Yang has been invited to the meeting.
