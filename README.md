@@ -15,6 +15,7 @@ In Intellij please run/execute MeetingApp.java file
 3. End meeting
 4. Randomly pick answer
 5. Exit
+
 Choose an option:
 
 >> Step C. Please select option 1, to include the participant name.
@@ -44,34 +45,50 @@ Enter your response: Funan
 Yang submitted response: Funan
 
 >> Step F. By following Step C and E, included one more participant and choice of location.
-1. Invite participant
-2. Submit response
-3. End meeting
-4. Randomly pick answer
-5. Exit
-Choose an option: 1
-Enter the name of the participant to invite: Ram
-Ram has been invited to the meeting.
 
 1. Invite participant
 2. Submit response
 3. End meeting
 4. Randomly pick answer
 5. Exit
+
+Choose an option: 1
+
+Enter the name of the participant to invite: Ram
+
+Ram has been invited to the meeting.
+
+>>
+
+1. Invite participant
+2. Submit response
+3. End meeting
+4. Randomly pick answer
+5. Exit
+
 Choose an option: 2
+
 Enter your name (participant): Ram
+
 Enter your response: City Square
+
 Ram submitted response: City Square
 
 >> Step G. By following Step C and E, included one more participant and choice of location.
+
 1. Invite participant
 2. Submit response
 3. End meeting
 4. Randomly pick answer
 5. Exit
+
 Choose an option: 1
+
 Enter the name of the participant to invite: Tim
+
 Tim has been invited to the meeting.
+
+>>
 
 1. Invite participant
 2. Submit response
@@ -84,22 +101,29 @@ Enter your response: One North
 Tim submitted response: One North
 
 >> Step H.  Please select option 3 and enter meeting initiator name, To end the Meeting.
+
 1. Invite participant
 2. Submit response
 3. End meeting
 4. Randomly pick answer
 5. Exit
+
 Choose an option: 3
+
 Enter your name (initiator) to end the meeting: Senthil
+
 The meeting has been ended by the initiator.
 
 >> Step I. Once meeting ended, please select option 4 and the MeetingApp will reveal the randomly selected meeting location. 
+
 1. Invite participant
 2. Submit response
 3. End meeting
 4. Randomly pick answer
 5. Exit
+
 Choose an option: 4
+
 Randomly picked answer: Tim: One North
 
 >> Step J. To Exit the application, select the option 5.
