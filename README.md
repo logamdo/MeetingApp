@@ -20,20 +20,27 @@ Choose an option:
 >> Step C. Please select option 1, to include the participant name.
 
 Choose an option: 1
+
 Enter the name of the participant to invite: Yang
+
 Yang has been invited to the meeting.
 
 >> Step D. Simillarly can include n number of participants.
 
 >> Step E. Please select option 2, to submmit the partipant choice of location.
+
 1. Invite participant
 2. Submit response
 3. End meeting
 4. Randomly pick answer
 5. Exit
+
 Choose an option: 2
+
 Enter your name (participant): Yang
+
 Enter your response: Funan
+
 Yang submitted response: Funan
 
 >> Step F. By following Step C and E, included one more participant and choice of location.
