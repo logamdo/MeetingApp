@@ -1,17 +1,50 @@
-package com.example.demo;
+package com.example.demo.service;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 import java.util.Scanner;
 
-class Meeting {
+public class MeetingService {
+
     private String initiator;
     private List<String> participants;
     private List<String> responses;
     private boolean ended;
 
-    public Meeting(String initiator) {
+    public String getInitiator() {
+        return initiator;
+    }
+
+    public void setInitiator(String initiator) {
+        this.initiator = initiator;
+    }
+
+    public List<String> getParticipants() {
+        return participants;
+    }
+
+    public void setParticipants(List<String> participants) {
+        this.participants = participants;
+    }
+
+    public List<String> getResponses() {
+        return responses;
+    }
+
+    public void setResponses(List<String> responses) {
+        this.responses = responses;
+    }
+
+    public boolean isEnded() {
+        return ended;
+    }
+
+    public void setEnded(boolean ended) {
+        this.ended = ended;
+    }
+
+    public MeetingService(String initiator) {
         this.initiator = initiator;
         this.participants = new ArrayList<>();
         this.responses = new ArrayList<>();
